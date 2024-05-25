@@ -60,5 +60,5 @@ Distributed under the MIT License. See LICENSE for more information.
 Contact
 Your Name - manishchhetry27@gmail.com
 
-Project Link: https://github.com/manishken/portfolio-site
+Project Link: https://github.com/manishken/portfolio
 

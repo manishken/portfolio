@@ -1,4 +1,3 @@
-Certainly! Here's an example README file for a portfolio site created using React. This file outlines the purpose of the project, how to set it up, and how to use it.
 
 ---
 

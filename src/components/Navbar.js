@@ -78,7 +78,7 @@ function NavBar() {
 
             <Nav.Item style={{display: 'flex', alignItems: 'center', cursor: 'pointer'}}>
               <a
-                href="#" download={"manishkumar_resume"} style={{textDecoration: 'none', color: 'white'}}
+                href="https://github.com/manishken/portfolio/blob/main/resume/Manishkumar_Alagumalai_Resume.pdf" download={"manishkumar_resume"} style={{textDecoration: 'none', color: 'white'}}
               >
                 <AiOutlineUser style={{ marginBottom: "2px" }} /> Resume
               </a>
@@ -86,7 +86,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/beebus/Portfolio"
+                href="https://github.com/manishken/Portfolio"
                 target="_blank"
                 className="fork-btn-inner"
               >
